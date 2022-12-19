@@ -3,7 +3,6 @@
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/Tests" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/Utilities" isTestSource="true" />
     </content>
   </component>
 </module>
